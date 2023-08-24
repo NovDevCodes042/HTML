@@ -1,0 +1,142 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+.s1{
+    width: 60%;
+    height: 70vh;
+    background-color: green;
+    justify-content: center;
+    align-items: center;
+    padding-top: 4.4rem;
+    padding-left: 18rem;
+    margin-left: 20rem;
+    margin-top: 8rem;
+    color: rgba(72, 66, 66, 0.279);
+}
+
+.f{
+    width: 50%;
+    height: 50vh;
+    background-color: rgba(255, 255, 255, 0.929);
+    justify-content: center;
+    align-items: center;
+    /* padding: .5rem; */
+    
+    
+}
+
+.d1{
+    /* width: 10%; */
+    /* height: vh; */
+    justify-content: center;
+    align-items: center;
+    padding-left: .5rem;
+
+}
+
+.p{
+    width: 16rem; 
+    height: 5vh;
+    /* justify-content: center;
+    align-items: center; */
+    /* padding-left: 1.1rem; */
+    padding-top: 1.3rem;
+
+}
+
+.h6{
+    padding-top: .5rem;
+    /* padding-left: 2rem; */
+
+}
+
+.d2{
+
+}
+
+.n{
+    width: 89%;
+    height: 3.5vh;
+    margin: .5rem;
+
+}
+
+.e{
+    width: 89%;
+    height: 3.5vh;
+    margin: .5rem;
+
+}
+
+.pn{
+    width: 89%;
+    height: 3.5vh;
+    margin: .5rem;
+
+}
+
+.w{
+    width: 89%;
+    height: 3.5vh;
+    margin: .5rem;
+
+}
+
+.t{
+
+    width: 89%;
+    /* height: 4rem; */
+    margin: .5rem;
+    padding: 0rem 2rem 3rem .2rem;
+
+    
+
+}
+
+.sub{
+    margin: .5rem;
+    width: 89%;
+    height: 4.5vh;
+    background-color: green;
+    border: none;
+
+}
+
+.span{
+    
+    
+    
+}
+
+.s2{
+    
+    font-size:.6rem;
+    margin-left: 5.5rem;
+    text-align: left;
+    
+    
+    
+}
+
+.pf{
+    font-size: .6rem;
+    text-align: start;
+    
+    
+
+    
+}
+
+.ap{
+    font-size: .6rem;
+    margin-left: 3.rem;
+    
+    
+    
+    
+
+
+}
